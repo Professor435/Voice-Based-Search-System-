@@ -7,7 +7,7 @@ Feature	Description
 🔊 Text-to-Speech	Reads search results aloud in the selected language
 📊 Confidence Meter	Visual bar showing speech recognition accuracy
 🌊 Audio Visualizer	40-bar animated waveform during recording
-Smart Commands
+Smart Commands 
 "Search for [topic]" — Performs web search
 "Open [website]" — Opens websites directly
 "Clear search" — Clears everything
